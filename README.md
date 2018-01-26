@@ -1,4 +1,4 @@
 # hello-world
-ilk repom
+ilk repom ve ilk editlemem.
 
 I am learning Github now.
